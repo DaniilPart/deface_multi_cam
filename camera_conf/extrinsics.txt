@@ -1,0 +1,6 @@
+rosrun tf2_tools echo.py pylon_camera boson_camera # pylon is rgb, boson is thermal
+At time 0.0, (current time 1758119398.6636107)
+- Translation: [-0.127, 0.043, 0.031]
+- Rotation: in Quaternion [0.000, 0.000, -1.000, 0.000]
+            in RPY (radian) [0.000, 0.000, -3.142]
+            in RPY (degree) [0.000, 0.023, -180.000]

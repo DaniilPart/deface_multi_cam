@@ -1,0 +1,26 @@
+pylon_camera:
+  intrinsics_path: "camera_conf/rgb_intrinsics_basler.yaml"
+
+thermal_camera:
+  intrinsics_path: "camera_conf/thermal_intrinsics_flir_boson.yaml"
+
+  extrinsics:
+    translation: [-0.127, 0.043, 0.031]
+    quaternion: [0.000, 0.000, -1.000, 0.000]
+
+model_parameters:
+  real_head_height_m: 0.2390
+  depth_correction_multiplier: 0.7000
+
+anonymization:
+
+  replacewith: "img"
+  
+
+  replaceimg_path: "replace_img.png"
+  
+
+  size_multiplier: 0.8900
+  offset_x: -24
+  offset_y: -7
+

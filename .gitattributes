@@ -1,0 +1,2 @@
+videos/* filter=lfs diff=lfs merge=lfs -text
+deface/_version.py export-subst

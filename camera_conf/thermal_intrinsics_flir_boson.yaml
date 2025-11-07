@@ -1,0 +1,22 @@
+camera_matrix:
+  cols: 3
+  data: [414.04317286, 0.0, 315.69132248, 0.0, 415.023834, 257.93014134, 0.0, 0.0,
+    1.0]
+  rows: 3
+camera_name: Boson640
+distortion_coefficients:
+  cols: 5
+  data: [0, 0, 0, 0, 0]
+  rows: 1
+distortion_model: plumb_bob
+image_height: 512
+image_width: 640
+projection_matrix:
+  cols: 4
+  data: [414.04317286, 0.0, 315.69132248, 0.0, 0.0, 415.023834, 257.93014134, 0.0,
+    0.0, 0.0, 1.0, 0.0]
+  rows: 3
+rectification_matrix:
+  cols: 3
+  data: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+  rows: 3
