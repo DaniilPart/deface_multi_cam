@@ -2,6 +2,7 @@
 
 # Multi-Camera Face Anonymization Tool
 
+This project is based on the original [deface repository by ORB-HD](https://github.com/ORB-HD/deface).
 This project provides tools to anonymize faces in thermal videos and images by projecting detections from a paired RGB camera using stereo calibration. It includes an interactive calibration UI and a projection-based anonymizer.
 
 ## Features
